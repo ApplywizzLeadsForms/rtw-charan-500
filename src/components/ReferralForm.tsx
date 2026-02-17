@@ -108,13 +108,17 @@ export default function InstagramReferralForm({ reelSource = "rtw-susmitha-proje
          htmlBody: `
   <p>Hi ${fullName}!</p>
 
-  <p>Thanks for commenting on the reel.</p>
+  <p>Thanks for commenting on our recent reel.</p>
 
-<p>
-As promised, here’s the collection of 500+ AI Projects (from basic to advanced):
+  <p>
+   Thanks for commenting on our recent reel.
 
-</p>
- <a
+   As promised, here’s the 500 AI Projects.
+  </p>
+
+  <br />
+
+  <a
     href="${caseStudyUrl}"
     target="_blank"
     style="
@@ -129,8 +133,8 @@ As promised, here’s the collection of 500+ AI Projects (from basic to advanced
   >
     500 AI projects
   </a>
-  <br>
-<p>
+
+  <p>
 In today’s U.S. job market, just listing skills on a resume isn’t enough — what truly stands out is proof of work.
 These projects help you build that proof.
 </p>
@@ -151,6 +155,11 @@ If you'd like to see how candidates are showcasing their projects inside a Digit
 <p>We’ll share the sample Digital Resume template with you.</p>
 
 <p>– Team Ready to Work</p>
+
+
+  <br /><br />
+
+  
 `
 
         })
