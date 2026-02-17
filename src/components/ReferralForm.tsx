@@ -108,17 +108,13 @@ export default function InstagramReferralForm({ reelSource = "rtw-susmitha-proje
          htmlBody: `
   <p>Hi ${fullName}!</p>
 
-  <p>Thanks for commenting on our recent reel.</p>
+  <p>Thanks for commenting on the reel.</p>
 
-  <p>
-   Thanks for commenting on our recent reel.
+<p>
+As promised, here’s the collection of 500+ AI Projects (from basic to advanced):
 
-   As promised, here’s the 500 AI Projects.
-  </p>
-
-  <br />
-
-  <a
+</p>
+ <a
     href="${caseStudyUrl}"
     target="_blank"
     style="
@@ -133,10 +129,28 @@ export default function InstagramReferralForm({ reelSource = "rtw-susmitha-proje
   >
     500 AI projects
   </a>
+  <br>
+<p>
+In today’s U.S. job market, just listing skills on a resume isn’t enough — what truly stands out is proof of work.
+These projects help you build that proof.
+</p>
 
-  <br /><br />
+<p>
+But here’s something important:<br>
+Projects show your skills.<br>
+How you present them to recruiters matters even more.
+</p>
 
-  
+<p>
+If you'd like to see how candidates are showcasing their projects inside a Digital Resume format, fill out this short form below:
+<a href="https://lead-funnel-cms-form.vercel.app/?s=SQQ6F" target="_blank" rel="noopener noreferrer">
+📝 Fill the short form
+</a>
+</p>
+
+<p>We’ll share the sample Digital Resume template with you.</p>
+
+<p>– Team Ready to Work</p>
 `
 
         })
